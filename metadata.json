@@ -1,0 +1,6 @@
+{
+  "name": "Focus Pad",
+  "description": "A clean single-page daily workspace featuring a focus timer, daily priorities, and quick notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
